@@ -1,2 +1,2 @@
 # ImageWithAllDataSpringMVC
-Image Upload In Spring MVC
+Image Upload Using StandardServletMultipartResolver not using CommonMultipartResolver.
